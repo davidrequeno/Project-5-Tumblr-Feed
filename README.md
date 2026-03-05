@@ -24,6 +24,8 @@ The following optional features are implemented:
 
 Video Walkthrough
 
+[
+](https://www.loom.com/share/4769bdb5397a49f5a16fdd9a4d6fddd6)
 
 Notes
 
